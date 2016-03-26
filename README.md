@@ -1,3 +1,5 @@
-# StreamSidekickMobile
+# StreamSidekick AmazonPrimeVideo
 
-![Stream Sidekick - Play Store](https://play.google.com/store/apps/details?id=com.ionicframework.realapp619406)
+Android app for seeing best rated movies on Amazon Prime Video.
+
+![http://streamsidekick.com](Stream Sidekick)
